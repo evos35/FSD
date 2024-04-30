@@ -1,0 +1,5 @@
+[{"name":"nithesh","work":"student","password":"abc"},
+{"name":"monick","work":"student","password":"abc"},
+{"name":"vijay","work":"Assistant Professor","password":"fgh"}
+
+]
