@@ -1,0 +1,4 @@
+\\ type in vs code terminal
+PS C:\Users\student\Desktop\22r01a6641\week8> npm install mongoose fs path express jsonwebtoken
+PS C:\Users\student\Desktop\22r01a6641\week8> node server.js
+PS C:\Users\student\Desktop\22r01a6641\week8> node server.js
