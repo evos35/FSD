@@ -1,2 +1,4 @@
 npm init (or) npm init –y  
 npm i express nodemon  
+// for output//
+node server.js 
