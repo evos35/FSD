@@ -1,0 +1,4 @@
+npm init (or) npm init –y 
+npm i express nodemon fs path jsonwebtoken 
+// for output//
+ node server.js 
